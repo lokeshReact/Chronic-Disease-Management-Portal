@@ -1,4 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img width="960" alt="image (4)" src="https://github.com/user-attachments/assets/bcd00b4a-5d26-484d-878a-89dcf587efba" />
+
+<img width="960" alt="image (3)" src="https://github.com/user-attachments/assets/7f6f671a-ea84-4692-95df-c4527a09a321" />
+
+
+<img width="958" alt="image (2)" src="https://github.com/user-attachments/assets/74678f33-8c30-4b9a-927c-d177ba2526ba" />
+
+
+<img width="956" alt="image (1)" src="https://github.com/user-attachments/assets/8f56add4-5d6f-489f-ba6d-aebbed08d147" />
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/468ec0bc-14d1-4d92-ba6c-b0cd2515cd52" />
+
 
 ## Getting Started
 
@@ -24,7 +36,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-<img width="960" alt="image (4)" src="https://github.com/user-attachments/assets/bcd00b4a-5d26-484d-878a-89dcf587efba" />
+
 
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
