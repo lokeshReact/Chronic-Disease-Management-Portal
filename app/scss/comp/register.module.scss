@@ -1,0 +1,80 @@
+/* Variables */
+$primary-color: #007bff;
+$hover-color: #0056b3;
+$border-radius: 10px;
+$input-border-color: #ccc;
+$input-focus-border: #007bff;
+
+/* Register Form Container */
+.register-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: $border-radius;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  text-align: center;
+
+  h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  /* Form Styling */
+  .register-form {
+    display: flex;
+    flex-direction: column;
+
+    input {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      border: 1px solid $input-border-color;
+      border-radius: 5px;
+      font-size: 16px;
+
+      &:focus {
+        border-color: $input-focus-border;
+        outline: none;
+      }
+    }
+  }
+
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: $primary-color;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background 0.3s ease-in-out;
+
+    &:hover {
+      background-color: $hover-color;
+    }
+  }
+
+  /* Success & Error Messages */
+  .success-message {
+    color: green;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 500px) {
+  .register-container {
+    width: 90%;
+    padding: 15px;
+  }
+}

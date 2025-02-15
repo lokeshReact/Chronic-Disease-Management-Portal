@@ -8,7 +8,7 @@ export default function SideMenu(){
         {name:"My Profile", path:"/admin/profile"},
         {name:"Helth Matrics", path:"/admin/matrics"},
         {name:"Messages", path:"/admin/messages"},
-        {name:"logOut", path:"/logOut"}
+        {name:"Logout", path:"/auth/login"}
     ]
 
     return(
