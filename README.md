@@ -24,6 +24,9 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
+<img width="960" alt="image (4)" src="https://github.com/user-attachments/assets/bcd00b4a-5d26-484d-878a-89dcf587efba" />
+
+
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
