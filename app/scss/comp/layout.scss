@@ -41,3 +41,30 @@
     border-radius: 10px;
     background-color: #fff;
 }
+
+.header, .banner{
+    background-color: $primary-color;
+    display: flex;
+    padding: 15;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.banner{
+    flex-direction: column;
+    min-height: 200px;
+}
+.container{
+    max-width: 1300px;
+}
+.main-menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    a{
+        padding: 10px;
+        color: $primary-color;
+        text-decoration: none;
+    }
+}
