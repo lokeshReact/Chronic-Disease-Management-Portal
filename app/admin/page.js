@@ -1,6 +1,13 @@
+'use client'
+import React from 'react';
+
 export default function HomePage(){
 
     return(
-         <h1>Home Page</h1>
+        <div className='box'>
+            <h3>helth matrix</h3>
+            
+        </div>
+         
     )
 }

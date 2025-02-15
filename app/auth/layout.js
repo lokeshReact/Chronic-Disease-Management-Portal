@@ -1,6 +1,6 @@
 
 
-export default function HomeLayout({ children }) {
+export default function AuthLayout({ children }) {
   return (
 
    <> {children}</>
